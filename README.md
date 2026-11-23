@@ -4,5 +4,5 @@ Bu depo, GitHunb'ı öğrenirken oluşturduğum ilk depo.
 -**Bölüm: Bilgisayar Mühendisliği**
 ## Bu depoda neler var?
 - [İlk programınm] (kodlar/merhaba.py)
-- ![SAKARYA ÜNİVERSİTESİ] (saü.jpg)
+- ![SAKARYA ÜNİVERSİTESİ] (kod.jpg)
   
